@@ -1,1 +1,1 @@
-# HotelManagementSystem
+# HotelManagementSystem - In Progress (incomplete project)
